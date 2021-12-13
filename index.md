@@ -26,4 +26,4 @@ If you are a news publisher and have issue/concern with The Times World App, ple
 
 Having issue with The Times World? 
 feel free to contact - sudharsantrade@gmail.com
-Phone : +91 8220861600
+
