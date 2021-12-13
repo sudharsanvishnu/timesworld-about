@@ -10,7 +10,7 @@ No monetization has been done.
 
 Built using React Native framework(JSX). 
 Only published in Play store. 
-I have developed this application only to add it in resume to get a developer JOB.
+I have developed this application only for personal(career) reasons.
 
 For more details on how to use [React Native](https://reactnative.dev/docs/getting-started).
 
