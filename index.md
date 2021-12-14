@@ -5,7 +5,7 @@ which is personalised news that organises and highlights what’s happening in t
 
 With Full coverage you can be informed on how a story is reported from a variety of sources. With just a tap you’ll see recent headlines from different sources.
 
-The Times World is devloped using public open source API [NewsAPI](https://newsapi.org/docs/client-libraries/python) and [Saurav tech](https://github.com/SauravKanchan/NewsAPI) which collects news information from various sources as JSON -[Download APK](https://drive.google.com/file/d/1Ma2bFKI_xdNJOp9URwSlFYOxlDMHPpB9/view?usp=sharing) 
+The Times World is devloped using public open source API [NewsAPI](https://newsapi.org/docs/client-libraries/python) and [Saurav tech](https://github.com/SauravKanchan/NewsAPI) which collects news information from various sources as JSON - [Download APK](https://drive.google.com/file/d/1Ma2bFKI_xdNJOp9URwSlFYOxlDMHPpB9/view?usp=sharing) 
 
 
 # NOT MONITIZED
