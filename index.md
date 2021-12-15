@@ -1,6 +1,6 @@
 # Welcome to The Times World 
 
-# NOT MONITIZED, UNFORTUNATELY UNABLE TO PUBLISH TO GOOGLE PLAY STORE DUE TO PRIVACY/NEWS APP POLICY 
+# ***NOT MONITIZED, UNFORTUNATELY IM UNABLE TO PUBLISH TO GOOGLE PLAY STORE DUE TO PRIVACY/NEWS APP POLICY 
 
 Top Headlines around the world from various sources [NewsAPI](https://newsapi.org/docs/client-libraries/python) and [Saurav tech](https://github.com/SauravKanchan/NewsAPI)
 which is personalised news that organises and highlights what’s happening in the world so that you can discover more about the stories that matter to you.
